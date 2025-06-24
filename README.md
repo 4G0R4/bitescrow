@@ -1,4 +1,4 @@
-![AGORA](https://agora.ftp.sh/wp-content/uploads/sites/109/2024/01/cropped-AGORA_logo.png)
+![AGORA](https://m.stacker.news/86894)
 
 # Bitcoin Escrow
 
