@@ -1,3 +1,5 @@
+![AGORA](https://agora.ftp.sh/wp-content/uploads/sites/109/2024/01/cropped-AGORA_logo.png)
+
 # Bitcoin Escrow
 
 Bitcoin Escrow - Formerly at bitescrow.org; domain expired 4/19/2015
